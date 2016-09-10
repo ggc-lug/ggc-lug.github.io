@@ -1,0 +1,5 @@
+The design of Unix operating system, Maurice J. Bach
+Professional Linux Kernel Architecture, Wolfgang Mauerer
+Understanding the Linux Kernel, Daniel P. Bovet and Marco Cesati
+Guide to Assembly Language Programming in Linux, Sivarama P. Dandamudi
+
